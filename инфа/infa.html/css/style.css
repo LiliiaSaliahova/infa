@@ -1,0 +1,57 @@
+
+
+.imperial-script-regular {
+    font-family: "Imperial Script", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ 
+  
+button{
+    width: 165px;
+    height: 54px;
+    color: black;
+    font-size: 40px;
+    font-family: Ingrid Darling;
+    font-weight: 400;
+    background-color: #AA82C9;
+    border-radius: 15px;
+    border: 0;
+    left: 408px;
+    top: 10px;
+    position: relative;
+
+
+
+}
+
+.button1{
+    width: 165px;
+    height: 54px;
+    color: black;
+    font-size: 40px; 
+    font-weight: 400;
+    background-color: #AA82C9;
+    border-radius: 15px;
+    border: 0;
+    left: 634px;
+    top: 10px;
+    position:absolute
+ 
+    
+}
+.button2{
+    width: 165px;
+    height: 54px;
+    color: black;
+    font-size: 40px; 
+    background-color: #AA82C9;
+    border-radius: 15px;
+    border:0;
+    top: 10px;
+    left: 850px; 
+    position: absolute;
+    
+    
+
+}
